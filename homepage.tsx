@@ -2,7 +2,7 @@ import { Fragment, h, homepage } from "./homepage/mod.tsx";
 
 const PROJECTS: Record<string, string> = {
   Deno: "https://github.com/denoland/deno",
-  "dext.ts": "https://github.com/lucacasonato/dext.ts",
+  "capsid": "https://github.com/capsidjs/capsid",
 };
 
 homepage(() => {
@@ -14,7 +14,7 @@ homepage(() => {
           style="max-width: 120px; border-radius: 100%;"
         />
         <h2>Luca Casonato</h2>
-        <a href="mailto:luca@deno.com">luca@deno.com</a>
+        <a href="mailto:yoshiya@deno.com">yoshiya@deno.com</a>
       </header>
       <div style="margin-top: 64px;">
         {Object.keys(PROJECTS).map((name) => (
