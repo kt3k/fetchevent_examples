@@ -13,7 +13,7 @@ homepage(() => {
           src="https://avatars.githubusercontent.com/u/613956"
           style="max-width: 120px; border-radius: 100%;"
         />
-        <h2>Yoshiya</h2>
+        <h2>Yoshiya Hinosawa</h2>
         <a href="mailto:yoshiya@deno.com">yoshiya@deno.com</a>
       </header>
       <div style="margin-top: 64px;">
