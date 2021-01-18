@@ -10,7 +10,7 @@ homepage(() => {
     <>
       <header>
         <img
-          src="https://avatars.githubusercontent.com/u/7829205"
+          src="https://avatars.githubusercontent.com/u/613956"
           style="max-width: 120px; border-radius: 100%;"
         />
         <h2>Luca Casonato</h2>
