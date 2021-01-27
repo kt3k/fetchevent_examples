@@ -3,6 +3,7 @@ import { Fragment, h, homepage } from "./homepage/mod.tsx";
 const PROJECTS: Record<string, string> = {
   Deno: "https://github.com/denoland/deno",
   "capsid": "https://github.com/capsidjs/capsid",
+  "LePont": "https://github.com/kt3k/lepont",
 };
 
 homepage(() => {
