@@ -5,7 +5,6 @@ const PROJECTS: Record<string, string> = {
   "capsid": "https://github.com/capsidjs/capsid",
   "LePont": "https://github.com/kt3k/lepont",
 };
-
 homepage(() => {
   return (
     <>
